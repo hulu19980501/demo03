@@ -1,0 +1,171 @@
+{
+  "accountList": [
+    {
+      "id": "0574bddf-cbee-458c-b21c-4b53465ea50c",
+      "username": "1",
+      "password": "123456",
+      "email": "",
+      "phone": "",
+      "role": "235bef05-5687-4029-bb9f-52bbad7240e7",
+      "createtime": 1683767617849,
+      "updatetime": 1683767617849
+    },
+    {
+      "id": "9c7dad83-4463-4069-a9c8-33fe19271f85",
+      "username": "2",
+      "password": "123456",
+      "email": "",
+      "phone": "",
+      "role": "235bef05-5687-4029-bb9f-52bbad7240e7",
+      "createtime": 1683767619974,
+      "updatetime": 1683767619974
+    },
+    {
+      "id": "561e78fa-eed7-4e4c-a62b-c22d8508e223",
+      "username": "3",
+      "password": "123456",
+      "email": "",
+      "phone": "",
+      "role": "235bef05-5687-4029-bb9f-52bbad7240e7",
+      "createtime": 1683767622541,
+      "updatetime": 1683767622541
+    },
+    {
+      "id": "bdbdc07e-7a32-4492-8642-bfda1346525e",
+      "username": "4",
+      "password": "123456",
+      "email": "",
+      "phone": "",
+      "role": "235bef05-5687-4029-bb9f-52bbad7240e7",
+      "createtime": 1683767624594,
+      "updatetime": 1683767624594
+    },
+    {
+      "id": "5e760c75-ae94-4670-819e-88ec9a36251b",
+      "username": "5",
+      "password": "123456",
+      "email": "",
+      "phone": "",
+      "role": "235bef05-5687-4029-bb9f-52bbad7240e7",
+      "createtime": 1683767627214,
+      "updatetime": 1683767627214
+    },
+    {
+      "id": "c7984dcf-1529-45e5-958d-3df40a1b98c4",
+      "username": "6",
+      "password": "123456",
+      "email": "",
+      "phone": "",
+      "role": "235bef05-5687-4029-bb9f-52bbad7240e7",
+      "createtime": 1683767629751,
+      "updatetime": 1683767629751
+    },
+    {
+      "id": "8b4327d3-96dc-44d2-b49d-763b5ff9a458",
+      "username": "7",
+      "password": "123456",
+      "email": "",
+      "phone": "",
+      "role": "235bef05-5687-4029-bb9f-52bbad7240e7",
+      "createtime": 1683767632120,
+      "updatetime": 1683767632120
+    },
+    {
+      "id": "413f3906-0d7b-4d10-bd67-7a4f8a3a5db9",
+      "username": "8",
+      "password": "123456",
+      "email": "",
+      "phone": "",
+      "role": "235bef05-5687-4029-bb9f-52bbad7240e7",
+      "createtime": 1683767634550,
+      "updatetime": 1683767634550
+    },
+    {
+      "id": "e54e71ba-69b9-4981-8183-63cd118b9112",
+      "username": "9",
+      "password": "123456",
+      "email": "",
+      "phone": "",
+      "role": "235bef05-5687-4029-bb9f-52bbad7240e7",
+      "createtime": 1683767636738,
+      "updatetime": 1683767636738
+    },
+    {
+      "id": "0b0ed5d0-9060-491c-b3e3-d7bbeff1cd88",
+      "username": "10",
+      "password": "123456",
+      "email": "",
+      "phone": "",
+      "role": "235bef05-5687-4029-bb9f-52bbad7240e7",
+      "createtime": 1683767640373,
+      "updatetime": 1683767640373
+    },
+    {
+      "id": "c99ede89-709f-4718-a16e-fe1c991654fb",
+      "username": "you",
+      "password": "12345678",
+      "email": "",
+      "phone": "",
+      "role": "235bef05-5687-4029-bb9f-52bbad7240e7",
+      "createtime": 1683768568664,
+      "updatetime": 1683771848745
+    },
+    {
+      "id": "3e82f4bd-aa68-4c48-81fb-1661d5652945",
+      "username": "mine",
+      "password": "1",
+      "email": "",
+      "phone": "1",
+      "role": "235bef05-5687-4029-bb9f-52bbad7240e7",
+      "createtime": 1683769292197,
+      "updatetime": 1683769292197
+    },
+    {
+      "id": "684f1af2-fbd5-4554-bc9d-ba4e10bbad40",
+      "username": "mine",
+      "password": "2",
+      "email": "",
+      "phone": "2",
+      "role": "235bef05-5687-4029-bb9f-52bbad7240e7",
+      "createtime": 1683769294813,
+      "updatetime": 1683769294813
+    },
+    {
+      "id": "377b54ba-fdde-41df-8fa2-5826c9cd8f0c",
+      "username": "mine",
+      "password": "4",
+      "email": "",
+      "phone": "4",
+      "role": "235bef05-5687-4029-bb9f-52bbad7240e7",
+      "createtime": 1683769298786,
+      "updatetime": 1683769298786
+    },
+    {
+      "id": "073069a8-0f6e-483b-aa84-7dc7bd368cf7",
+      "username": "mine",
+      "password": "5",
+      "email": "",
+      "phone": "5",
+      "role": "235bef05-5687-4029-bb9f-52bbad7240e7",
+      "createtime": 1683769300834,
+      "updatetime": 1683769300834
+    }
+  ],
+  "roleList": [
+    {
+      "id": "235bef05-5687-4029-bb9f-52bbad7240e7",
+      "name": "管理员",
+      "description": "拥有最大权限"
+    },
+    {
+      "id": "035680bc-3d2c-423c-aa7f-f7901793c63a",
+      "name": "技术",
+      "description": "软件开发"
+    },
+    {
+      "id": "049871d3-4d2d-4683-aff3-9b0e75f682a5",
+      "name": "产品",
+      "description": "写产品描述"
+    }
+  ]
+}
